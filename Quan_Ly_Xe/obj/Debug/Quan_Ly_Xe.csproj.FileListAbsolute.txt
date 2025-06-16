@@ -1,0 +1,13 @@
+D:\Desktop\BTTH\On_tap_CK\Quan_Ly_Xe\Quan_Ly_Xe\bin\Debug\Quan_Ly_Xe.exe.config
+D:\Desktop\BTTH\On_tap_CK\Quan_Ly_Xe\Quan_Ly_Xe\bin\Debug\Quan_Ly_Xe.exe
+D:\Desktop\BTTH\On_tap_CK\Quan_Ly_Xe\Quan_Ly_Xe\bin\Debug\Quan_Ly_Xe.pdb
+D:\Desktop\BTTH\On_tap_CK\Quan_Ly_Xe\Quan_Ly_Xe\obj\Debug\Quan_Ly_Xe.csproj.AssemblyReference.cache
+D:\Desktop\BTTH\On_tap_CK\Quan_Ly_Xe\Quan_Ly_Xe\obj\Debug\Quan_Ly_Xe.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\BTTH\On_tap_CK\Quan_Ly_Xe\Quan_Ly_Xe\obj\Debug\Quan_Ly_Xe.Form1.resources
+D:\Desktop\BTTH\On_tap_CK\Quan_Ly_Xe\Quan_Ly_Xe\obj\Debug\Quan_Ly_Xe.Properties.Resources.resources
+D:\Desktop\BTTH\On_tap_CK\Quan_Ly_Xe\Quan_Ly_Xe\obj\Debug\Quan_Ly_Xe.csproj.GenerateResource.cache
+D:\Desktop\BTTH\On_tap_CK\Quan_Ly_Xe\Quan_Ly_Xe\obj\Debug\Quan_Ly_Xe.csproj.CoreCompileInputs.cache
+D:\Desktop\BTTH\On_tap_CK\Quan_Ly_Xe\Quan_Ly_Xe\obj\Debug\Quan_Ly_Xe.exe
+D:\Desktop\BTTH\On_tap_CK\Quan_Ly_Xe\Quan_Ly_Xe\obj\Debug\Quan_Ly_Xe.pdb
+D:\Desktop\BTTH\On_tap_CK\Quan_Ly_Xe\Quan_Ly_Xe\obj\Debug\Quan_Ly_Xe.ThongTinXe.resources
+D:\Desktop\BTTH\On_tap_CK\Quan_Ly_Xe\Quan_Ly_Xe\obj\Debug\Quan_Ly_Xe.ThongTinBD.resources
